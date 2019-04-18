@@ -1,6 +1,6 @@
 # Spherical Surface Swapper
 Wrapper code to streamline moving data between surface formats.  
-Written as a wrapper to the techniques defined here: https://wiki.humanconnectome.org/display/PublicData/HCP+Users+FAQ#HCPUsersFAQ-9.HowdoImapdatabetweenFreeSurferandHCP?
+Written as a wrapper to the techniques defined here: https://wiki.humanconnectome.org/display/PublicData/HCP+Users+FAQ?preview=/63078513/91848788/Resampling-FreeSurfer-HCP_5_8.pdf#HCPUsersFAQ-9.HowdoImapdatabetweenFreeSurferandHCP?
 
 Currently only resamples use case A (fsaverage to fs_LR) or use case B (native to fs_LR) at various mesh densities
 
