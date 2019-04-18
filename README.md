@@ -21,6 +21,6 @@ Wrapper code to streamline moving data between surface formats
   -n 			: no cleanup; turn off cleanup  
   -h		: HELP!  
 
-**EXAMPLE** 
+**EXAMPLE**  
 To map an imaginary LH native space sig.mgz for cc53 to fs_LR 32k mesh:  
 spherical_surface_swapper.sh -i sig.mgz -o sig -f scalar -h L -s native -t fs_LR -r cc53
