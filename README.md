@@ -16,7 +16,7 @@ Wrapper code to streamline moving data between surface formats
    -r <recon ID>		: specify FreeSurfer recon subject ID  
 
 **OPTIONAL**  
-  -a <atlas_dir>		: directory containing spheres used in resampling (def: HCPPIPEDIR/global/templates/standard_mesh_atlases/)
+  -a <atlas_dir>		: directory containing spheres used in resampling (def: HCPPIPEDIR/global/templates/standard_mesh_atlases/)  
   -m <targ_mesh_size>	: fs_LR mesh size (target only, valid values: 32 [def], 59, 164)  
   -n 			: no cleanup; turn off cleanup  
   -h		: HELP!  
