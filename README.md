@@ -1,5 +1,8 @@
 # Spherical Surface Swapper
-Wrapper code to streamline moving data between surface formats
+Wrapper code to streamline moving data between surface formats.  
+Written as a wrapper to the techniques defined here: https://wiki.humanconnectome.org/display/PublicData/HCP+Users+FAQ#HCPUsersFAQ-9.HowdoImapdatabetweenFreeSurferandHCP?
+
+Currently only resamples use case A (fsaverage to fs_LR) or use case B (native to fs_LR) at various mesh densities
 
 **REQUIRED**  
    -i <input>		: specify surface input overlay or label to resample  
